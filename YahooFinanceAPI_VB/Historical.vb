@@ -1,4 +1,5 @@
 ﻿Imports System.Net
+Imports System.Globalization
 
 ''' <summary>
 ''' Class for fetching stock historical price from Yahoo Finance
@@ -68,6 +69,8 @@ Public Class Historical
                 Token.Crumb = ""
                 Debug.Print("Re-fetch")
                 Return GetRaw(symbol, start, [end])
+            ElseIf (response.StatusCode = HttpStatusCode.NotFound) Then
+                Return Nothing
             Else
                 Throw
             End If
@@ -104,11 +107,12 @@ Public Class Historical
                 Dim hp As New HistoryPrice()
                 With hp
                     .Date = DateTime.Parse(cols(0))
-                    .Open = Convert.ToDouble(cols(1))
-                    .High = Convert.ToDouble(cols(2))
-                    .Low = Convert.ToDouble(cols(3))
-                    .Close = Convert.ToDouble(cols(4))
-                    .AdjClose = Convert.ToDouble(cols(5))
+                    .Open = Convert.ToDouble(cols(1), CultureInfo.InvariantCulture)
+                    ' .Open = Double.Parse(cols(1), CultureInfo.InvariantCulture)
+                    .High = Convert.ToDouble(cols(2), CultureInfo.InvariantCulture)
+                    .Low = Convert.ToDouble(cols(3), CultureInfo.InvariantCulture)
+                    .Close = Convert.ToDouble(cols(4), CultureInfo.InvariantCulture)
+                    .AdjClose = Convert.ToDouble(cols(5), CultureInfo.InvariantCulture)
 
                     'fixed issue in some currencies quote (e.g: SGDAUD=X)
                     If (cols(6) <> "null") Then .Volume = Convert.ToDouble(cols(6))

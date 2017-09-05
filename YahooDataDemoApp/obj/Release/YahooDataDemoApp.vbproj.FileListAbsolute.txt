@@ -1,0 +1,12 @@
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\bin\Release\YahooDataDemoApp.exe.config
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\bin\Release\YahooDataDemoApp.exe
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\bin\Release\YahooDataDemoApp.pdb
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\bin\Release\YahooDataDemoApp.xml
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\bin\Release\YahooFinanceAPI.dll
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\obj\Release\YahooDataDemoApp.vbproj.ResolveComReference.cache
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\obj\Release\YahooDataDemoApp.YahooDataForm.resources
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\obj\Release\YahooDataDemoApp.Resources.resources
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\obj\Release\YahooDataDemoApp.vbproj.GenerateResource.Cache
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\obj\Release\YahooDataDemoApp.exe
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\obj\Release\YahooDataDemoApp.xml
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooDataDemoApp\obj\Release\YahooDataDemoApp.pdb

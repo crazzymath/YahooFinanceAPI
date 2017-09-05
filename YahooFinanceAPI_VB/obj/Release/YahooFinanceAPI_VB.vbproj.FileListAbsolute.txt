@@ -1,0 +1,5 @@
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooFinanceAPI_VB\bin\Release\YahooFinanceAPI.dll
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooFinanceAPI_VB\obj\Release\YahooFinanceAPI_VB.vbprojResolveAssemblyReference.cache
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooFinanceAPI_VB\obj\Release\YahooFinanceAPI.Resources.resources
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooFinanceAPI_VB\obj\Release\YahooFinanceAPI_VB.vbproj.GenerateResource.Cache
+C:\Users\pc024.SOLVENTIS\Documents\Visual Studio 2015\Projects\YahooFinanceAPI-develop\YahooFinanceAPI_VB\obj\Release\YahooFinanceAPI.dll
